@@ -1,5 +1,5 @@
 ---
-title: "Embrained.ai"
+title: "Method"
 weight: 10
 ---
 
