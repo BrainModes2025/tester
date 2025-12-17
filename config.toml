@@ -7,6 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
+  background = "images/embrained_bg.jpg"
   #logo = "fa-laptop"
 
 [[params.social]]
