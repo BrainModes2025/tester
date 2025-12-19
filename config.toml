@@ -1,5 +1,5 @@
-baseurl = "" # brainmodes2025.org"
-title = "BrainModes 2025"
+baseurl = "" 
+title = "EMBRAINED | Synthetic Agency"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -7,27 +7,23 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
+  background = "images/embrained_bg.jpg"
   #logo = "fa-laptop"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/company/110520989/"
+
+[[params.social]]
+  medium = "bluesky"
+  icon = "cloud" # approximation, check theme icons
+  link = "https://bsky.app/profile/embrained.ai"
 
 [[params.social]]
   medium = "twitter"
   icon = "twitter"
-  link = "#"
-
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "#"
-
-[[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "#"
-
-[[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "#"
+  link = "https://x.com/embrainedai"
 
 [languages]
 [languages.en]
